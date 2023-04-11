@@ -12,6 +12,12 @@ namespace code
         {
             string name = "Sarvesh";
             Console.WriteLine(name);
+
+            //
+            string name1 = "Manish";
+            Console.WriteLine("name1");
+
+
         }
     }
 }
