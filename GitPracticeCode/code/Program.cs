@@ -18,8 +18,8 @@ namespace code
             Console.WriteLine(name1);
             //
             string name3 = "Akshay";
-            Console.WriteLine(name3);
-            
+    Console.WriteLine(name3);
+            //trial
 
         }
     }
