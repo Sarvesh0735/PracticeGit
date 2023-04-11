@@ -16,6 +16,9 @@ namespace code
             //
             string name1 = "Manish";
             Console.WriteLine(name1);
+            //
+            string name2 = "Shubham";
+            Console.WriteLine(name2);
 
 
         }
